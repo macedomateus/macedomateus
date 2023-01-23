@@ -31,10 +31,4 @@
 ![MYSQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 ![AMAZON AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)&nbsp;
   
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{macedomateus}/count.svg" /></p> 
-<br>
-</div>
-  
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4d6893&height=120&section=footer"/>
