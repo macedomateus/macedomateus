@@ -3,15 +3,12 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=949F1F&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Mateus+Macedo;I'm+25+years+old;I'm+from+São+Paulo,+Brazil;I'm+a+Back-End+Developer;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=macedomateus&show_icons=true&count_private=true&hide_border=true&title_color=949F1F&icon_color=949F1F&text_color=B0C4DEbg_color=778899" alt="Mateus Macedo github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=macedomateus&layout=compact&hide_border=true&title_color=949F1F&text_color=949F1F&bg_color=ffffff" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=macedomateus&show_icons=true&count_private=true&hide_border=false&border_color=949f1f&title_color=949F1F&icon_color=949F1F&text_color=B0C4DE&bg_color=0A0F0B" alt="Mateus Macedo github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=macedomateus&layout=compact&hide_border=false&border_color=949f1f&title_color=949F1F&text_color=B0C4DE&bg_color=0A0F0B" />
 </div>  
   
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=macedomateus&bg_color=000000&color=ffffff&line=949F1F&point=dce1f9&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-  
-  <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=macedomateus&theme=dark&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=macedomateus&bg_color=0D1117&color=ffffff&line=949F1F&point=dce1f9&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 <div align="center"> 
 <a href="https://instagram.com/maateusmacedo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
